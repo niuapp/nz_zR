@@ -1,0 +1,3 @@
+bugly
+gradlew assembleRelease
+gradlew buildTinkerPatchRelease
